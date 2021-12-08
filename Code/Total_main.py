@@ -1,7 +1,7 @@
 import argparse
 import main_shallow
 import main_deep
-import p
+
 
 parser = argparse.ArgumentParser(description='BCIC 4-2a')
 
@@ -31,8 +31,3 @@ args = parser.parse_args()
 alpha=0
 main_deep.main(args, alpha)
 main_shallow.main(args, alpha)
-# p.main(args,alpha)
-
-# alpha=0.3
-# main_deep.main(args, alpha)
-# main_shallow.main(args, alpha)
