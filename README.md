@@ -1,5 +1,5 @@
 # Project1
-Applied Neural Network course
+Proceeded projext for 'Applications and practice in neural networks' course
 
 project 1 code and dataset
 
